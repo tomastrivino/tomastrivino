@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![XD](https://gifdb.com/images/high/dancing-jesus-homer-s-web-page-the-simpsons-6v381mem2zforbol.gif)
 <!--
 **tomastrivino/tomastrivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
