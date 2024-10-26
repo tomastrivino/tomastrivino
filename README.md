@@ -1,5 +1,10 @@
 ## Hi there 👋
-![XD](https://gifdb.com/images/high/dancing-jesus-homer-s-web-page-the-simpsons-6v381mem2zforbol.gif)
+- 🇨🇱 I’m a 21y/o student from Chile.
+- 🇳🇱 Until December, 2024. Mind my timezone please!
+- 💬 Talk to me about cartoons and animation!
+- 📫 Please reach me via email or Telegram.
+
+
 <!--
 **tomastrivino/tomastrivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🇪🇸 (Native) 🇬🇧 (C1) 
+
 -->
