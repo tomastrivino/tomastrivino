@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🇨🇱 I’m a 21y/o student from Chile.
-- 🇳🇱 Until December, 2024. Mind my timezone please!
+- 🇳🇱 Until December, 2024. 🔜🇮🇳 (Jan, 2025) Mind my timezone please!
 - 💬 Talk to me about cartoons and animation!
 - 📫 Please reach me via email or Telegram.
 
