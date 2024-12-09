@@ -1,11 +1,11 @@
 ## Hi there 👋
 - 🇨🇱 I’m a 21y/o student from Chile.
-- 🇳🇱 Until Mid December, 2024. 🔜🇮🇳 (Jan, 2025) Mind my timezone please!
+- 🇳🇱 Until Mid December, 2024. 🔜🇮🇳 from January, 2025 to March, 2025. **Mind my timezone please!**
 - 💬 Talk to me about cartoons and animation!
 - 📫 Please reach me via email or Telegram.
--  🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I suck but I can say hello and ask how are you)
+-  🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I can say hello)
 
-![image](https://github.com/user-attachments/assets/8e4200a7-046e-4bf8-ae2d-fbde3cc20b0d)
+![image](https://github.com/user-attachments/assets/4d9be656-5c71-4514-8b01-0d0c3218bc54)
 
 <!--
 **tomastrivino/tomastrivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
