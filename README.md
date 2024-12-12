@@ -1,9 +1,9 @@
 ## Hi there 👋
 - 🇨🇱 I’m a 21y/o student from Chile.
 - 🇳🇱 Until Mid December, 2024. 🔜🇮🇳 from January, 2025 to March, 2025. **Mind my timezone please!**
-- 💬 Talk to me about cartoons and animation!
+- 💬 Talk to me about cartoons and animation! **I'm a big fan of Smiling Friends, Infinity Train, OTGW, Regular Show and more!**
 - 📫 Please reach me via email or Telegram.
--  🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I can say hello)
+-  🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I can say hello - A1)
 
 ![image](https://github.com/user-attachments/assets/4d9be656-5c71-4514-8b01-0d0c3218bc54)
 
