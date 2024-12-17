@@ -5,7 +5,7 @@
 - 📫 Please reach me via email or Telegram.
 -  🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I can say hello - A1)
 
-![image](https://github.com/user-attachments/assets/4d9be656-5c71-4514-8b01-0d0c3218bc54)
+![FFOCM4](https://github.com/user-attachments/assets/d836aaa4-ec56-4a98-a8f7-0596a58b77ed)
 
 <!--
 **tomastrivino/tomastrivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
