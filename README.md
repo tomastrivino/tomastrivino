@@ -1,8 +1,9 @@
 ## Hi there 👋
 - 🇨🇱 I’m a 21y/o student from Chile.
-- 💬 Talk to me about cartoons and animation! **I'm a big fan of Smiling Friends, Infinity Train, OTGW, Regular Show and more!**
+- 💬 Talk to me about cartoons and animation! **I'm a big fan of Avatar The Legend of Aang, Infinity Train, OTGW, Regular Show and more!**
 - 📫 Please reach me via email or Telegram.
--  🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I can say hello - A1)
+- 🇪🇸 (Native) 🇬🇧 (C1) 🇳🇱 (I can say hello - A1)
+- 📚 You may find my [Resume/CV here.](https://tomastrivino.dev/cv.pdf)
 
 ![FFOCM4](https://github.com/user-attachments/assets/d836aaa4-ec56-4a98-a8f7-0596a58b77ed)
 
